@@ -19,6 +19,6 @@ Hi, I am Aarav and I am a student. My hobbies are gaming and coding...
 <img src = "https://aleen42.github.io/badges/src/koenigsegg.svg"/>
 
 STATS
-<img src = "	https://github-readme-stats.vercel.app/api?username=DarkStar201&theme=blue-green"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=DarkStar201&theme=blue-green"/>
 
 }
