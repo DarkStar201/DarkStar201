@@ -17,4 +17,8 @@ Hi, I am Aarav and I am a student. My hobbies are gaming and coding...
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 <img src = "https://aleen42.github.io/badges/src/koenigsegg.svg"/>
+
+STATS
+<img src = "	https://github-readme-stats.vercel.app/api?username=DarkStar201&theme=blue-green"/>
+
 }
